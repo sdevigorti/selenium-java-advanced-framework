@@ -1,0 +1,119 @@
+17:38:30.952 INFO  utilities.Util -Date and Time :: 09_02_2020 17_38_30
+17:38:30.986 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:38:30.986 INFO  utilities.ExtentManager -C:\Users\sreed\IdeaProjects\letskodeit//reports//AutomationReport_09_02_2020 17_38_30.html
+17:38:30.986 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:38:31.730 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:38:31.731 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:38:31.732 INFO  base.TestListeners -verifySearchCourse
+17:38:31.732 INFO  base.TestListeners -testInvalidLogin
+17:38:31.732 INFO  base.TestListeners -testLogin
+17:38:31.830 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:38:50.401 INFO  base.CustomDriver -Clicked On :: Login Link
+17:38:55.447 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: test@email.com
+17:38:55.614 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+17:38:56.450 INFO  base.CustomDriver -Clicked On :: Login Button
+17:39:20.479 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+17:39:20.793 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: rest api
+17:39:22.461 INFO  base.CustomDriver -Clicked On :: Search Course Button
+17:39:22.570 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+17:39:22.580 INFO  base.CustomDriver -Current URL is :: https://letskodeit.teachable.com/courses?query=rest+api
+17:39:22.580 INFO  base.CheckPoint -test-02.search course verification :-> PASS
+17:39:22.581 INFO  base.CheckPoint -Test Method Successful
+17:39:22.588 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifySearchCourse
+17:39:22.780 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+17:39:23.214 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: javascript
+17:39:23.755 ERROR base.CustomDriver -Cannot click on :: Search Course Button
+17:39:23.755 INFO  utilities.Util -Date and Time :: 09_02_2020 17_39_23
+17:39:24.909 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\sreed\IdeaProjects\letskodeit//test-output/screenshots//_Click ERROR_09_02_2020 17_39_23.png
+17:39:24.937 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+17:39:24.952 INFO  base.CustomDriver -Current URL is :: https://letskodeit.teachable.com/courses
+17:39:24.953 INFO  base.CheckPoint -test-02.search course verification :-> FAIL
+17:39:24.953 INFO  base.CheckPoint -Test Method Failed
+17:39:25.066 INFO  base.TestListeners -onTestFailure -> Test Method Name: verifySearchCourse
+17:39:25.067 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:39:25.067 INFO  utilities.Util -Date and Time :: 09_02_2020 17_39_25
+17:39:25.934 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\sreed\IdeaProjects\letskodeit//test-output/screenshots//chrome_verifySearchCourse_09_02_2020 17_39_25.png
+17:39:30.022 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:39:48.290 INFO  base.CustomDriver -Clicked On :: Login Link
+17:39:48.502 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: test@email.com
+17:39:48.691 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+17:39:49.957 INFO  base.CustomDriver -Clicked On :: Login Button
+17:40:00.048 INFO  base.CustomDriver -Element List found with: class=>gravatar
+17:40:00.048 INFO  base.TestListeners -onTestSuccess -> Test Method Name: testInvalidLogin
+17:40:09.007 INFO  base.CustomDriver -Element List found with: class=>gravatar
+17:40:09.380 INFO  base.CustomDriver -Clicked On :: User Account Icon
+17:40:09.384 INFO  base.CustomDriver -Waiting for max:: 3 seconds for element to be available
+17:40:09.533 INFO  base.CustomDriver -Element appeared on the web page
+17:40:12.932 INFO  base.CustomDriver -Clicked on :: Logout Link
+17:40:13.116 INFO  base.CustomDriver -Clicked On :: Login Link
+17:40:16.189 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: test@email.com
+17:40:16.415 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+17:40:20.407 INFO  base.CustomDriver -Clicked On :: Login Button
+17:40:20.472 INFO  base.TestListeners -onTestFailure -> Test Method Name: testLogin
+17:40:20.483 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:40:20.483 INFO  utilities.Util -Date and Time :: 09_02_2020 17_40_20
+17:40:21.121 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\sreed\IdeaProjects\letskodeit//test-output/screenshots//chrome_testLogin_09_02_2020 17_40_20.png
+17:40:21.142 INFO  base.CustomDriver -Element List found with: class=>gravatar
+17:40:21.246 INFO  base.CustomDriver -Clicked On :: User Account Icon
+17:40:21.254 INFO  base.CustomDriver -Waiting for max:: 3 seconds for element to be available
+17:40:21.390 INFO  base.CustomDriver -Element appeared on the web page
+17:40:23.147 INFO  base.CustomDriver -Clicked on :: Logout Link
+17:40:23.311 INFO  base.CustomDriver -Clicked On :: Login Link
+17:40:24.673 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test
+17:48:23.707 INFO  utilities.Util -Date and Time :: 09_02_2020 17_48_23
+17:48:23.740 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:48:23.741 INFO  utilities.ExtentManager -C:\Users\sreed\IdeaProjects\letskodeit//reports//AutomationReport_09_02_2020 17_48_23.html
+17:48:23.741 INFO  utilities.ExtentManager -*********** Report Path ***********
+17:48:24.734 INFO  base.TestListeners -onStart -> Test Tag Name: Application Test
+17:48:24.744 INFO  base.TestListeners -These methods will be executed in this <test> tag
+17:48:24.746 INFO  base.TestListeners -verifySearchCourse
+17:48:24.747 INFO  base.TestListeners -testInvalidLogin
+17:48:24.747 INFO  base.TestListeners -testLogin
+17:48:24.893 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:48:38.821 INFO  base.CustomDriver -Clicked On :: Login Link
+17:48:44.944 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: test@email.com
+17:48:45.218 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+17:48:45.977 INFO  base.CustomDriver -Clicked On :: Login Button
+17:49:07.566 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+17:49:07.920 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: rest api
+17:49:09.781 INFO  base.CustomDriver -Clicked On :: Search Course Button
+17:49:09.943 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+17:49:09.951 INFO  base.CustomDriver -Current URL is :: https://letskodeit.teachable.com/courses?query=rest+api
+17:49:09.951 INFO  base.CheckPoint -test-02.search course verification :-> PASS
+17:49:09.952 INFO  base.CheckPoint -Test Method Successful
+17:49:09.960 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifySearchCourse
+17:49:10.135 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+17:49:10.355 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: javascript
+17:49:12.115 INFO  base.CustomDriver -Clicked On :: Search Course Button
+17:49:12.152 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+17:49:12.169 INFO  base.CustomDriver -Current URL is :: https://letskodeit.teachable.com/courses?query=javascript
+17:49:12.169 INFO  base.CheckPoint -test-02.search course verification :-> PASS
+17:49:12.169 INFO  base.CheckPoint -Test Method Successful
+17:49:12.170 INFO  base.TestListeners -onTestSuccess -> Test Method Name: verifySearchCourse
+17:49:13.511 INFO  base.WebDriverFactory -OS Name from system property :: win
+17:49:24.685 INFO  base.CustomDriver -Clicked On :: Login Link
+17:49:29.696 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: test@email.com
+17:49:29.918 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+17:49:30.668 INFO  base.CustomDriver -Clicked On :: Login Button
+17:49:40.819 INFO  base.CustomDriver -Element List found with: class=>gravatar
+17:49:40.820 INFO  base.TestListeners -onTestSuccess -> Test Method Name: testInvalidLogin
+17:49:51.234 INFO  base.CustomDriver -Element List found with: class=>gravatar
+17:49:51.556 INFO  base.CustomDriver -Clicked On :: User Account Icon
+17:49:51.560 INFO  base.CustomDriver -Waiting for max:: 3 seconds for element to be available
+17:49:51.984 INFO  base.CustomDriver -Element appeared on the web page
+17:49:55.558 INFO  base.CustomDriver -Clicked on :: Logout Link
+17:49:55.913 INFO  base.CustomDriver -Clicked On :: Login Link
+17:49:59.422 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: test@email.com
+17:49:59.634 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+17:50:03.911 INFO  base.CustomDriver -Clicked On :: Login Button
+17:50:03.937 INFO  base.CustomDriver -Element List found with: class=>gravatar
+17:50:03.937 INFO  base.CheckPoint -test-01.login verification :-> PASS
+17:50:03.938 INFO  base.CheckPoint -Test Method Successful
+17:50:03.938 INFO  base.TestListeners -onTestSuccess -> Test Method Name: testLogin
+17:50:03.956 INFO  base.CustomDriver -Element List found with: class=>gravatar
+17:50:04.067 INFO  base.CustomDriver -Clicked On :: User Account Icon
+17:50:04.072 INFO  base.CustomDriver -Waiting for max:: 3 seconds for element to be available
+17:50:04.194 INFO  base.CustomDriver -Element appeared on the web page
+17:50:07.583 INFO  base.CustomDriver -Clicked on :: Logout Link
+17:50:07.744 INFO  base.CustomDriver -Clicked On :: Login Link
+17:50:09.282 INFO  base.TestListeners -onFinish -> Test Tag Name: Application Test

@@ -1,0 +1,33 @@
+16:14:32.013 INFO  overview.LoggingDemo -Info Message Printed
+16:14:32.205 ERROR overview.LoggingDemo -Error Message Printed
+16:14:32.206 FATAL overview.LoggingDemo -Fatal Message Printed
+16:52:14.687 INFO  base.WebDriverFactory -OS Name from system property :: win
+16:52:29.852 INFO  base.CustomDriver -Clicked On :: Login Link
+16:52:37.221 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: test@email.com
+16:52:37.500 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+16:52:42.119 INFO  base.CustomDriver -Clicked On :: Login Button
+16:52:54.006 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+16:52:54.320 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: rest api
+16:52:56.916 INFO  base.CustomDriver -Clicked On :: Search Course Button
+16:52:56.966 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+16:52:56.978 INFO  base.CustomDriver -Current URL is :: https://letskodeit.teachable.com/courses?query=rest+api
+16:52:57.151 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+16:52:57.609 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: javascript
+16:52:59.580 INFO  base.CustomDriver -Clicked On :: Search Course Button
+16:52:59.604 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+16:52:59.614 INFO  base.CustomDriver -Current URL is :: https://letskodeit.teachable.com/courses?query=javascript
+16:54:30.512 INFO  base.WebDriverFactory -OS Name from system property :: win
+16:54:42.684 INFO  base.CustomDriver -Clicked On :: Login Link
+16:54:47.384 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: test@email.com
+16:54:47.577 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+16:54:51.066 INFO  base.CustomDriver -Clicked On :: Login Button
+16:55:02.110 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+16:55:02.294 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: rest api
+16:55:03.760 INFO  base.CustomDriver -Clicked On :: Search Course Button
+16:55:03.823 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+16:55:03.832 INFO  base.CustomDriver -Current URL is :: https://letskodeit.teachable.com/courses?query=rest+api
+16:55:03.979 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+16:55:04.249 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: javascript
+16:55:05.802 INFO  base.CustomDriver -Clicked On :: Search Course Button
+16:55:05.822 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+16:55:05.833 INFO  base.CustomDriver -Current URL is :: https://letskodeit.teachable.com/courses?query=javascript
